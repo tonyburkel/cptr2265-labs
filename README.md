@@ -1,1 +1,3 @@
 # cptr2265-labs
+
+Hello, my name is Tony Burkel, I am currently a student at Minnesota State Community and Technical College studying Computer Science with hopes to later get my Graduate's in Software Engineering. Ever since I was young I have always loved everything that involves computers, the hardware, software, and everything between. I am very excited to start learning about Software Engineering this semester and hope that I can keep taking classes like this in the future. My goals for this course are to enhance my knowledge about the software industry, learn how to create, maintain, and manage different types of software, and make a step towards beginning my software engineering profession.
