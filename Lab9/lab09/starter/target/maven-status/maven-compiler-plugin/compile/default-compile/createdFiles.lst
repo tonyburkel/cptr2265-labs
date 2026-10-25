@@ -1,0 +1,7 @@
+edu\mctc\gradebook\RosterLoader.class
+edu\mctc\gradebook\StudentRepository.class
+edu\mctc\gradebook\App.class
+edu\mctc\gradebook\Grading.class
+edu\mctc\gradebook\RosterLoader$ScoreRecord.class
+edu\mctc\gradebook\GradebookService.class
+edu\mctc\gradebook\GradebookService$FinalGrade.class

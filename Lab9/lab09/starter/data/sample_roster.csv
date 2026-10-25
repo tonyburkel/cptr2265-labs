@@ -1,0 +1,25 @@
+student_id,name,category,score
+S001,Ana Lopez,labs,95
+S001,Ana Lopez,labs,88
+S001,Ana Lopez,quizzes,72
+S001,Ana Lopez,quizzes,90
+S001,Ana Lopez,quizzes,94
+S001,Ana Lopez,exams,91
+S002,Ben Carter,labs,78
+S002,Ben Carter,labs,82
+S002,Ben Carter,quizzes,65
+S002,Ben Carter,quizzes,80
+S002,Ben Carter,quizzes,70
+S002,Ben Carter,exams,74
+S003,Chloe Nguyen,labs,100
+S003,Chloe Nguyen,labs,97
+S003,Chloe Nguyen,quizzes,98
+S003,Chloe Nguyen,quizzes,40
+S003,Chloe Nguyen,quizzes,96
+S003,Chloe Nguyen,exams,89
+S004,Diego Ramirez,labs,60
+S004,Diego Ramirez,labs,55
+S004,Diego Ramirez,quizzes,58
+S004,Diego Ramirez,quizzes,62
+S004,Diego Ramirez,quizzes,50
+S004,Diego Ramirez,exams,61
